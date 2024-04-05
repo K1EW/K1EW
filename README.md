@@ -19,21 +19,21 @@ Looking forward to learn more about theoretical computer science ⚛.
 </p>
 
 ## My Skills
-##### Languages:
+#### Languages:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript" />
   </a>
 </p>
 
-##### Tools:
+#### Tools:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,linux,cmake,next,express,mysql" />
   </a>
 </p>
 
-##### Competitive Programming:
+#### Competitive Programming:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=WeerawatW" />
