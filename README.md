@@ -6,8 +6,8 @@ My name is Weerawat, and I am a student at Chulalongkron University, majoring in
 Looking forward to learn more about theoretical computer science ⚛.
 
 ## My Interests
-<div style="display: flex; align-items: flex-start;">
-    <ul style="flex: 1;">
+<div>
+    <ul>
         <li>🤖 Machine learning</li>
         <li>📈 Optimization algorithms</li>
         <li>📟 Embedded systems</li>
