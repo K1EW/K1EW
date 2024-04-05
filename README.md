@@ -6,29 +6,36 @@ My name is Weerawat, and I am a student at Chulalongkron University, majoring in
 Looking forward to learn more about theoretical computer science ⚛.
 
 ## My Interests
-<div>
-    <ul>
-        <li>🤖 Machine learning</li>
-        <li>📈 Optimization algorithms</li>
-        <li>📟 Embedded systems</li>
-        <li>👾 Robotics</li>
-        <li>🏆 Competitive programming</li>
-    </ul>
-    </p>
-    <img src="assets/i-dont-use-frameworks-btw.gif" height="300">
-</div>
+- 🤖 Machine learning
+- 📈 Optimization algorithms
+- 👾 Robotics
+- 📟 Embedded systems
+- 🏆 Competitive programming
+
+<p align="center">
+    <a href="assets/i-dont-use-frameworks-btw.svg">
+        <img src="assets/i-dont-use-frameworks-btw.svg" />
+    </a>
+</p>
 
 ## My Skills
-#### Languages:
+##### Languages:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript" />
   </a>
 </p>
 
-#### Tools:
+##### Tools:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,linux,cmake,next,express,mysql" />
+  </a>
+</p>
+
+##### Competitive Programming:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=WeerawatW" />
   </a>
 </p>
