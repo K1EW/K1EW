@@ -2,16 +2,21 @@
 
 ## About Me
 
-My name is Weerawat, and I am a student at Chulalongkron University, majoring in Computer Engineering ⚙️💻. 
+My name is Weerawat, and I am a student at Chulalongkron University, majoring in Computer Engineering ⚙️💻.
 Looking forward to learn more about theoretical computer science ⚛.
 
-<p>
-</p>
-
 ## My Interests
-- 🤖 Machine learning
-- 📈 Optimization algorithms
-- 🏆 Competitive programming
+<div style="display: flex; align-items: flex-start;">
+    <ul style="flex: 1;">
+        <li>🤖 Machine learning</li>
+        <li>📈 Optimization algorithms</li>
+        <li>📟 Embedded systems</li>
+        <li>👾 Robotics</li>
+        <li>🏆 Competitive programming</li>
+    </ul>
+    </p>
+    <img src="assets/i-dont-use-frameworks-btw.gif" height="300">
+</div>
 
 ## My Skills
 #### Languages:
