@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there 👋 K1EW here!
 
-<!--
-**K1EW/K1EW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+My name is Weerawat, and I am a student at Chulalongkron University, majoring in Computer Engineering ⚙️💻. 
+Looking forward to learn more about theoretical computer science ⚛.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+</p>
+
+## My Interests
+- 🤖 Machine learning
+- 📈 Optimization algorithms
+- 🏆 Competitive programming
+
+## My Skills
+#### Languages:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript" />
+  </a>
+</p>
+
+#### Tools:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,linux,cmake,next,express,mysql" />
+  </a>
+</p>
