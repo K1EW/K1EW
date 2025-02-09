@@ -22,14 +22,14 @@ Looking forward to learn more about theoretical computer science ⚛.
 #### Languages:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,mysql,postgresql" />
   </a>
 </p>
 
 #### Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,linux,cmake,next,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=vim,linux,cmake,opencv,pytorch" />
   </a>
 </p>
 
